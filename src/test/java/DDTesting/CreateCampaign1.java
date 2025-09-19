@@ -13,6 +13,7 @@ public class CreateCampaign1
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("http://49.249.28.218:8098/");
+		System.out.println("Nihar");
 		
 	}
 
